@@ -25,6 +25,3 @@ To explore the projects in this repository, follow these steps:
 
 ## Contributing
 Contributions to this repository are welcome! If you have ideas for additional dashboard projects or improvements to existing ones, feel free to submit a pull request. Please adhere to the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and associated documentation for personal or commercial purposes. See the [LICENSE](LICENSE) file for more details.
